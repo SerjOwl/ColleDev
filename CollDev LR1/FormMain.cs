@@ -73,6 +73,9 @@ namespace CollDev_LR1
                 summaryPay += departmentPay;
             }
             text += $"Суммарные расходы по всем отделам: {summaryPay}";
+
+            File.WriteAllText("Report.txt", text);
+
             MessageBox.Show(text);
         }
     }

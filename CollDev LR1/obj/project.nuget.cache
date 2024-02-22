@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gVw8ZI0CH0XcsbXJ3744eGQEIF2G+reMTDOixpFVqBTVQpjTFPU6s+f+rwDsgi1jEBaxfmNm5LyzAcNriR7m0Q==",
+  "dgSpecHash": "rfgb4ajWGVm6mXTe/+DRfaJJMr59j0CcEHnZhrC5AxCU+Ee94GT2fdZ6t7/Ye50BpI+zg5S23X5INmymTe9wCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agnie\\OneDrive\\Documents\\GitHub\\CollDev\\CollDev LR1\\CollDev LR1.csproj",
+  "projectFilePath": "C:\\Users\\agnie\\OneDrive\\Рабочий стол\\CollDevLR1\\CollDev LR1\\CollDev LR1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agnie\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\agnie\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

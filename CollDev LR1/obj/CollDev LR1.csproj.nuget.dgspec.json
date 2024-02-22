@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\agnie\\OneDrive\\Documents\\GitHub\\CollDev\\CollDev LR1\\CollDev LR1.csproj": {}
+    "C:\\Users\\agnie\\OneDrive\\Рабочий стол\\CollDevLR1\\CollDev LR1\\CollDev LR1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\agnie\\OneDrive\\Documents\\GitHub\\CollDev\\CollDev LR1\\CollDev LR1.csproj": {
+    "C:\\Users\\agnie\\OneDrive\\Рабочий стол\\CollDevLR1\\CollDev LR1\\CollDev LR1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\agnie\\OneDrive\\Documents\\GitHub\\CollDev\\CollDev LR1\\CollDev LR1.csproj",
+        "projectUniqueName": "C:\\Users\\agnie\\OneDrive\\Рабочий стол\\CollDevLR1\\CollDev LR1\\CollDev LR1.csproj",
         "projectName": "CollDev LR1",
-        "projectPath": "C:\\Users\\agnie\\OneDrive\\Documents\\GitHub\\CollDev\\CollDev LR1\\CollDev LR1.csproj",
+        "projectPath": "C:\\Users\\agnie\\OneDrive\\Рабочий стол\\CollDevLR1\\CollDev LR1\\CollDev LR1.csproj",
         "packagesPath": "C:\\Users\\agnie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\agnie\\OneDrive\\Documents\\GitHub\\CollDev\\CollDev LR1\\obj\\",
+        "outputPath": "C:\\Users\\agnie\\OneDrive\\Рабочий стол\\CollDevLR1\\CollDev LR1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\agnie\\AppData\\Roaming\\NuGet\\NuGet.Config",
